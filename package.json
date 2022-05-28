@@ -1,0 +1,13 @@
+{
+  "name": "SMS Phish Spray",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Atheropids",
+  "engines": {
+    "node": "^11.7.0"
+  },
+  "dependencies": {
+    "tough-cookie": "^3.0.1"
+  },
+  "description": "Spam spraying random gibbrish nonsense to a hilariously stupid phishing website I found."
+}
