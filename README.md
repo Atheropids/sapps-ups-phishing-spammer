@@ -3,8 +3,8 @@ Spamming random insulting gibbrish against some phishing websites in mass SMS sp
 
 ## Brief Intro
 Some third party scan of a fake UPS phishing website spreading through mass SMS spamming criminal campaign.  
-https://urlscan.io/result/d05f2963-bd3b-4096-a8dc-4038ad7398ad/
-https://urlscan.io/result/fac1b930-d5be-4546-b534-98db5a7adb17/
+https://urlscan.io/result/d05f2963-bd3b-4096-a8dc-4038ad7398ad/  
+https://urlscan.io/result/fac1b930-d5be-4546-b534-98db5a7adb17/  
 
 ## WARNING: Do NOT use/modify this tool against innocents.
 The purpose of this upload is solely for ppls to spam against malicious criminal cyber activities in attempts to undermine their operations.  
